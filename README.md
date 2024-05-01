@@ -6,7 +6,7 @@ Laravel Permission - https://spatie.be/docs/laravel-permission/v6/installation-l
 Laravel Activity Log - https://spatie.be/docs/laravel-activitylog/v4/installation-and-setup<br/>
 Laravel Media Library - https://spatie.be/docs/laravel-medialibrary/v11/installation-setup<br/>
 
-## Instalation
+## Installation
 
  - clone the repository: https://github.com/juliaokataleko/laravel11-project-setup
  - Create the .env file from .env.example
