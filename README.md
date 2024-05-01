@@ -17,9 +17,9 @@ Laravel Media Library - https://spatie.be/docs/laravel-medialibrary/v11/installa
  ```
    docker run --rm \
     -u "$(id -u):$(id -g)" \
-    -v $(pwd):/var/www/html \
+    -v "$(pwd):/var/www/html" \
     -w /var/www/html \
-    laravelsail/php82-composer:latest \
+    laravelsail/php83-composer:latest \
     composer install --ignore-platform-reqs
 ```
 - With docker started on your machine, start the project:
