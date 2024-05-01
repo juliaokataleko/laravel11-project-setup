@@ -45,6 +45,6 @@ Laravel Media Library - https://spatie.be/docs/laravel-medialibrary/v11/installa
 ./vendor/bin/sail npm run dev
 ```
 
- - Access the platform
-http://localhost
+ - Access the platform <br/>
+http://localhost <br/>
 Admin credentials - login:admin@admin.com / password:admin
