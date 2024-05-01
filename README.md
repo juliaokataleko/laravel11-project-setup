@@ -30,21 +30,21 @@ Laravel Media Library - https://spatie.be/docs/laravel-medialibrary/v11/installa
 ```
 ./vendor/bin/sail artisan key:generate
 ```
-Run migration and data seeder
+ - Run migration and data seeder
 ```
 ./vendor/bin/sail artisan migrate --seed
 ```
 
-Install npm dependencies
+ - Install npm dependencies
 ```
 ./vendor/bin/sail npm i
 ```
 
-Run npm
+ - Run npm
 ```
 ./vendor/bin/sail npm run dev
 ```
 
-Access the platform
+ - Access the platform
 http://localhost
 Admin credentials - login:admin@admin.com / password:admin
