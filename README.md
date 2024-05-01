@@ -1,4 +1,4 @@
-# Laracel 11 project setup with InertiaJs using Vue
+# Laravel 11 project setup with InertiaJs using Vue
 
 ## Packages
 Laravel Permission - https://spatie.be/docs/laravel-permission/v6/installation-laravel <br/>
